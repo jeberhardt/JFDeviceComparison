@@ -26,6 +26,12 @@ FOUNDATION_EXPORT JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone6SPlus;
 FOUNDATION_EXPORT JFUIDeviceModelVersion *const kUIDeviceVersion_iPhoneSE;
 FOUNDATION_EXPORT JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone7;
 FOUNDATION_EXPORT JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone7Plus;
+FOUNDATION_EXPORT JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone8;
+FOUNDATION_EXPORT JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone8Plus;
+FOUNDATION_EXPORT JFUIDeviceModelVersion *const kUIDeviceVersion_iPhoneX;
+FOUNDATION_EXPORT JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone8_;
+FOUNDATION_EXPORT JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone8Plus_;
+FOUNDATION_EXPORT JFUIDeviceModelVersion *const kUIDeviceVersion_iPhoneX_;
 
 FOUNDATION_EXPORT JFUIDeviceModelVersion *const kUIDeviceVersion_iPodGen1;
 FOUNDATION_EXPORT JFUIDeviceModelVersion *const kUIDeviceVersion_iPodGen2;
