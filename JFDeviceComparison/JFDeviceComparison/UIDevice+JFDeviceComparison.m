@@ -25,6 +25,12 @@ JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone6SPlus = @"8,2";
 JFUIDeviceModelVersion *const kUIDeviceVersion_iPhoneSE     = @"8,4";
 JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone7      = @"9,1";
 JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone7Plus  = @"9,2";
+JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone8      = @"10,1";
+JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone8Plus  = @"10,2";
+JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone8X     = @"10,3";
+JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone8_     = @"10,4";
+JFUIDeviceModelVersion *const kUIDeviceVersion_iPhone8Plus_ = @"10,5";
+JFUIDeviceModelVersion *const kUIDeviceVersion_iPhoneX_     = @"10,6";
 
 NSString *const kUIDeviceVersion_iPod                   = @"iPod";
 JFUIDeviceModelVersion *const kUIDeviceVersion_iPodGen1 = @"1,1";
